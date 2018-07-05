@@ -1,1 +1,2 @@
-name = "foodpal"
+import requests
+from .foodpal import FoodPal

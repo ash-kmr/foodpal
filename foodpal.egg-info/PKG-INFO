@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: foodpal
+Version: 0.0.1
+Summary: Description for foodpal
+Home-page: https://github.com/pypa/example-project
+Author: Ashish Kumar
+Author-email: kumarashish1550@gmail.com
+License: UNKNOWN
+Description: # foodpal
+        
+        Python Api Wrapper for foodpal
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

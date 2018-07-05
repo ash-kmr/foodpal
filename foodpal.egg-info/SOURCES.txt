@@ -1,0 +1,9 @@
+README.md
+setup.py
+foodpal/__init__.py
+foodpal/foodpal.py
+foodpal.egg-info/PKG-INFO
+foodpal.egg-info/SOURCES.txt
+foodpal.egg-info/dependency_links.txt
+foodpal.egg-info/requires.txt
+foodpal.egg-info/top_level.txt
